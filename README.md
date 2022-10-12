@@ -1,1 +1,1 @@
-Collection of python scripts for my university exercises.
+Collection of python scripts and jupyter notebooks for my university exercises.
